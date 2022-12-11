@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /life/
 title: "My life"
 excerpt: "My life"
