@@ -8,3 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+My CV can be downloaded [here](https://yma17.github.io/files/cv.pdf).
+
+Inside it you can see all details regarding my publications, research and education, as well as my technical and computational skills.

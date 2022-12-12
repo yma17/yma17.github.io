@@ -10,4 +10,8 @@ I'm a huge music fan! I love exploring new music and discussing music with peopl
 
 ![Album collage](./../images/topsters2.png)
 
-You can [contact](https://yma17.github.io/contact/) me anytime if you'd like to talk anything music :)
+I also enjoy good food, and whenever I travel to a new city or region, one of my first priorities is to see out food places. Here are some food highlights for me in 2022:
+
+![Food collage](./../images/food_collage.png)
+
+You can [contact](https://yma17.github.io/contact/) me anytime if you'd like to talk anything music, food, or anything else :)
