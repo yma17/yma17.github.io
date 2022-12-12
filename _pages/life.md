@@ -10,7 +10,7 @@ I'm a huge music fan! I love exploring new music and discussing music with peopl
 
 ![Album collage](./../images/topsters2.png)
 
-I also enjoy good food, and whenever I travel to a new city or region, one of my first priorities is to see out food places. Here are some food highlights for me in 2022:
+I also enjoy good food, and whenever I travel to a new city or region, one of my first priorities is to seek out food places. Here are some food highlights for me in 2022:
 
 ![Food collage](./../images/food_collage.png)
 
