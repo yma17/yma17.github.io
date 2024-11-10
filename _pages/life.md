@@ -6,7 +6,7 @@ excerpt: "My life"
 author_profile: true
 ---
 
-I'm a huge music fan! I love exploring new music and discussing music with people. My main genres are indie pop, dream pop, shoegaze and alternative rock. Below is a collage of my favorite albums:
+I'm a huge music fan! I love exploring new music, talking about music with people, and going to concerts. I listen to a lot of genres, but my main ones are indie pop, dream pop, art pop, slowcore, and alternative rock. Below is a collage of (some of) my favorite albums:
 
 ![Album collage](./../images/topsters2.png)
 

@@ -86,7 +86,7 @@ author:
   location         : "Atlanta, Georgia"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=EYzwc4wAAAAJ&hl=en"
   email            : "yma473@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  lastfm           : "https://www.last.fm/user/htm2021"
   linkedin         : "yingchen-ma"
   orcid            : "http://orcid.org/0000-0002-0273-4150"
   pinterest        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://x.com/eric_ma_23"
   vine             :
   weibo            :
   xing             :
