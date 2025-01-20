@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Eric! I'm a **2nd-year CS Ph.D. student** at [Georgia Institute of Technology](https://www.gatech.edu/), advised by Prof. [**Srijan Kumar**](https://faculty.cc.gatech.edu/~srijan/) and part of the [**Computational Data Science Lab for the Web and Social Media (CLAWS) Lab**](https://faculty.cc.gatech.edu/~srijan/). My research interests lie broadly in **natural language processing, large language models, multimodal machine learning, and computational social science**.
+Hi, my name is Eric! I'm a **2nd-year CS Ph.D. candidate** at [Georgia Institute of Technology](https://www.gatech.edu/), advised by Prof. [**Srijan Kumar**](https://faculty.cc.gatech.edu/~srijan/) and part of the [**Computational Data Science Lab for the Web and Social Media (CLAWS) Lab**](https://faculty.cc.gatech.edu/~srijan/). My research interests lie broadly in **natural language processing, large language models, multimodal machine learning, and computational social science**.
 
 I have 3+ years research and 7+ years programming experience. In 2023, I presented my [paper](https://yma17.github.io/files/websci23-17.pdf), **"Characterizing and Predicting Social Correction on Twitter"**, at the [15th ACM Web Science Conference (WebSci’23)](https://websci23.webscience.org/) in Austin, TX. The same year, I was awarded the **Marshal D. Williamson Fellowship** at Georgia Tech's 32nd College of Computing Awards. I have contributed to several other projects, served as an author on multiple other publications, and peer-reviewed work for ICWSM '25 and HKS Misinformation Review.
 
@@ -17,7 +17,7 @@ In November 2024, I **passed my Ph.D. qualifying exam** - much thanks to my comm
 
 ## Current Work
 
-At the moment, I am working on two projects. In the **first**, I am developing a benchmark for **robustness of multimodal large language models (MLLMs) to realistic and plausible semantic perturbations** in the text and image modalities. Specifically:
+At the moment, I am working on two projects. In the **first**, I am developing methods to benchmark and improve the **robustness of multimodal large language models (MLLMs) to realistic and plausible semantic perturbations** in the text and image modalities. Specifically:
 - (1) I am working to create an extensive suite of input perturbations to enable a vigorous evaluation of MLLMs' robustness across a myriad of reasoning tasks and state-of-the-art models.
 - (2) I am looking to develop techniques to make MLLMs more robust to such perturbations.
 
